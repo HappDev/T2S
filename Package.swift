@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BadvpnTun2socks",
-            url: "https://github.com/FlyFrg/T2S/releases/download/v0.0.6/BadvpnTun2socks.xcframework.zip",
-            checksum: "94afc8901067a54dcce05847a298d12e03e8f2622a8d7afe1c1fec8e5a659c24"
+            url: "https://github.com/FlyFrg/T2S/releases/download/v0.0.7/BadvpnTun2socks.xcframework.zip",
+            checksum: "5c588c43b2843bc4e20f0ffe62c0e24e9c1752af0dbaeab3e26fed067ebea71a"
         )
     ]
 )
